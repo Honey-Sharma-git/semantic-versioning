@@ -1,2 +1,6 @@
 master: 
-chore(initial commit): npm init, git init and math.js
+* commit into master: chore(initial commit): npm init, git init and math.js
+* Create a branch Develop form master
+* Create a branch feature/add-function from Develop
+feature/add-function:
+commit into feature/add-function: feat(math): add add() utility function
