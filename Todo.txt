@@ -1,0 +1,2 @@
+master: 
+chore(initial commit): npm init, git init and math.js
