@@ -1,6 +1,10 @@
-master: 
+History:
 * commit into master: chore(initial commit): npm init, git init and math.js
 * Create a branch Develop form master
 * Create a branch feature/add-function from Develop
-feature/add-function:
-commit into feature/add-function: feat(math): add add() utility function
+* commit into feature/add-function: feat(math): add add() utility function
+* Raised PR for head: feature/add-function into base: develop
+* Merged feature/add-function into develop
+* feature/add-function: git stash push -m "wip: carry edits to new branch"
+* Create a branch chore/add-gitignore from develop
+* Commit into chore/add-gitignore: chore(git): add gitignore and mention Todo.txt in it.
